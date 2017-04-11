@@ -134,15 +134,4 @@ grunt publish
 
 ftp帐号与密码保存在`.ftppass`文件中，请注意保密。
 
-####说明
-
-此工具适合简单静态页项目，可根据自己项目需求配置.
-
-「只有适合自己的，才是最好的」.
-
-#### License
-
-Released under [MIT] LICENSE
-
-
 
