@@ -1,0 +1,13 @@
+{
+    "boss":false,
+    "debug":true,
+    "curly":true,
+    "undef":true,
+    "jquery":true,
+    "browser":true,
+    "devel":true,
+    "node":true,
+    "withstmt":true,
+    "evil":true,
+    "expr":false
+}
